@@ -1,0 +1,2 @@
+entre na pagina "login.html" através do live server e 
+clique em "login" para abrir o site, vulgo a página "index2.html"
